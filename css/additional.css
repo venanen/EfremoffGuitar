@@ -61,3 +61,10 @@
 		),
 		url(../assets/img/portfolio/fullsize/6.jpg);
 }
+.add-text {
+	text-align: justify;
+}
+.add-block {
+	border-left: 1px solid #cccccc3d;
+	border-right: 1px solid #cccccc3d;
+}
