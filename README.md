@@ -1,3 +1,5 @@
-# EfremoffGuitar
+# Проект лендинга гитарной мастерской
 
-[Preview](https://venanen.github.io/EfremoffGuitar/index.html)
+### Создан по просьбе, представляет собой готовый несложный  лендинг. 
+
+##### [Просмотр](http://efremovguitars.ru/ "Просмотр")
